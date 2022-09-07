@@ -1,0 +1,256 @@
+a
+{
+    text-decoration: transparent;
+    color: white;
+}
+
+
+
+
+.signinwithfacebook-BUTTON
+{
+    background-color: rgb(67, 67, 205);
+    color: white;
+    border: none;                
+    margin: 25px;
+    padding: 10px;
+    border-radius: 20PX;
+    cursor: pointer;
+    transition: opacity 0.5s;
+    font-style: white;
+    
+    
+    
+}
+.signinwithfacebook-BUTTON:hover
+{
+    /*background-color: rgb(2, 2, 2);*/
+    opacity: 0.5;
+
+}
+
+/* .signinwithfacebook-BUTTON:active
+{
+    opacity: 0.5s;
+} */
+
+.signinwithlinkedin-BUTTON
+{
+    background-color: rgb(14, 112, 248);
+    color: white;
+    border: none;
+    border-radius: 5PX;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: opacity 0.5s;
+}
+
+.sihninwithlinkedin-BUTTON:hover
+{
+    opacity: 0.5;
+}
+
+.signinwithlinkedin-BUTTON:active
+{
+    opacity: 0.5s;
+}
+
+
+
+.TWEET-BUTTON
+{
+    background-color: rgb(0, 119, 255);
+    color: white;
+    border: none;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: box-shodow 5s;
+}
+
+.TWEET-BUTTON:hover
+{
+    box-shadow: 5px 5px 10px rgb(0 0 0/35%);
+}
+
+.TWEET-BUTTON:active
+{
+    transform: scale(0.50);
+}
+
+.signinwithGoogle-Button
+{
+    background-color: red;
+    color:white;
+    border: none;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.signinwithGoogle-Button:hover
+{
+    box-shadow: 5px 5px 10px rgb(0 0 0/35%);  
+}
+
+.signinwithGoogle-Button:active
+{
+    transform: scale(0.98);
+}
+
+.signinwithinstagram-button
+{
+    background-color: rgb(210, 64, 11);
+    color: white;
+    border: none;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.signinwithinstagram-button:hover
+{
+    box-shadow: 5px 5px 10px rgb(0 0 0/35%);
+}
+
+.signinwithinstagram-button:active
+{
+    transform: scale(0.50);
+}
+
+.signinwithamazon-button
+{
+    background-color: rgb(245, 248, 70);
+    color: white;
+    border: none;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.signinwithamazon-button:hover
+{
+    box-shadow: 5px 5px 10px rgb(0 0 0/35%);
+}
+
+.signinwithamazon-button:active
+{
+    transform: scale(0.50);
+}
+
+.signinwithyahoo-BUTTON
+{
+    background-color: rgb(238, 56, 238);
+    color: white;
+    border: none;                
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20PX;
+    cursor: pointer;
+    transition: opacity 0.5s;
+    font-style: white;
+    
+}
+.signinwithyahoo-BUTTON:hover
+{
+    /*background-color: rgb(2, 2, 2);*/
+    opacity: 0.5;
+
+}
+
+.signinwithyahoo-BUTTON:active
+{
+    opacity: 0.5s;
+}
+
+.signinwithpinterest-BUTTON
+{
+    background-color: red;
+    color: white;
+    border: none;                
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20PX;
+    cursor: pointer;
+    transition: opacity 0.5s;
+    font-style: white;
+    
+}
+.signinwithpinterest-BUTTON:hover
+{
+    /*background-color: rgb(2, 2, 2);*/
+    opacity: 0.5;
+
+}
+
+.signinwithpinterest-BUTTON:active
+{
+    opacity: 0.5s;
+}
+
+.signinwithtumblr-BUTTON
+{
+    background-color:black;
+    color: white;
+    border: none;                
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20PX;
+    cursor: pointer;
+    transition: opacity 0.5s;
+    font-style: white;
+    
+}
+.signinwithtumblr-BUTTON:hover
+{
+    /*background-color: rgb(2, 2, 2);*/
+    opacity: 0.5;
+
+}
+
+.signinwithtumblr-BUTTON:active
+{
+    opacity: 0.5s;
+}
+
+.signinwithvkontakte-BUTTON
+{
+    background-color:rgb(110, 46, 76);
+    color: white;
+    border: none;                
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20PX;
+    cursor: pointer;
+    transition: opacity 0.5s;
+    font-style: white;
+    
+}
+.signinwithvkontakte-BUTTON:hover
+{
+    /*background-color: rgb(2, 2, 2);*/
+    opacity: 0.5;
+
+}
+
+/* .signinwithvkontakte-BUTTON:active
+{
+    opacity: 0.5s;
+} */
+
+html
+{
+    background: linear-gradient(120deg,rgb(213, 106, 40), white, rgb(8, 118, 69));
+    /*background: radial-gradient(white, pink);*/
+    background-repeat:no-repeat;
+    height: 100%;
+    text-align: center;
+}
